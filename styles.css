@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;   
-    font-family: 'Poppins', sans-serif; 
+    font-family: 'Milonga', sans-serif; 
 }
 
 body {
@@ -34,7 +34,7 @@ body {
     position: absolute;
     bottom: 10px;
     left: 10px;
-    font-size: 25px;
+    font-size: 40px;
     color: #fff;
 }
 
@@ -65,7 +65,7 @@ body {
 
 .card_info .head .title {
     text-align: center;
-    font-size: 18px;
+    font-size: 28px;
     font-weight: bold;
     color: #bc8811;
 }
@@ -83,11 +83,11 @@ body {
 
 .card_info .head .description .item i {
     color: #bc8811;
-    font-size: 15px;
+    font-size: 22px;
 }
 
 .card_info .head .description .item p {
-    font-size: 13px;
+    font-size: 25px;
 }
 
 .card_info .content {
@@ -100,7 +100,7 @@ body {
 
 .card_info .content .list p {
     text-align: center;
-    font-size: 14px;
+    font-size: 20px;
     margin-bottom: 5px;
 }
 
